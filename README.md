@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+First Look:
+
+<img width="693" alt="Screenshot 2025-04-12 at 19 13 45" src="https://github.com/user-attachments/assets/912be07d-1e08-411d-b88a-902ff5547867" />
+
+Filter By Category (grocery):
+
+<img width="691" alt="Screenshot 2025-04-12 at 19 14 01" src="https://github.com/user-attachments/assets/8ebdc1d5-deef-4c60-ba7a-33e0d6a67b2b" />
+
+Filter By Name Type In Search Bar:
+
+<img width="695" alt="Screenshot 2025-04-12 at 19 14 54" src="https://github.com/user-attachments/assets/68d3bc77-90d4-4d81-8adf-a5e081fd2848" />
+
+
 ## Getting Started
 
 First, run the development server:
